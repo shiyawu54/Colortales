@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Girl
+* source:	https://sketchfab.com/3d-models/cute-girl-5b5985193167436cb20d934cda04c966
+* author:	renderpigames (https://sketchfab.com/renderpigames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Girl" (https://sketchfab.com/3d-models/cute-girl-5b5985193167436cb20d934cda04c966) by renderpigames (https://sketchfab.com/renderpigames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
